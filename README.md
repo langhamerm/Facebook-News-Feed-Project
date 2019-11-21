@@ -52,6 +52,9 @@ start .
 * Use paragraph elements
 * Use article tags
 * Style hover effects
+* Utliize borders, padding, and margin
+* Utilize grid or flexbox
+* Utilize at least 2 media queries
 
 
 ## Deployment
