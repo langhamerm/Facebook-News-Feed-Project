@@ -1,6 +1,6 @@
 # Facebook-News-Feed-Project
 
-Recreate a facebook login page and news feed using a wide variety of HTML elements and CSS properties and make sure it's mobile responsive. NO BOOTSTRAP ALLOWED!
+Recreate a facebook login and news feed using a wide variety of HTML elements and CSS properties and make sure it's mobile responsive. NO BOOTSTRAP ALLOWED!
 
 ## Getting Started
 
@@ -9,66 +9,46 @@ Recreate a facebook login page and news feed using a wide variety of HTML elemen
 
 ### Prerequisites
 
-Requirements to complete this project.
+Open Git Bash and type: 
 
 ```
-Mobile Responsive Layout (NO BOOTSTRAP)
+git clone https://github.com/langhamerm/Facebook-News-Feed-Project.git
 
 ```
+then type: 
 ```
-##login.html
-Utitlize form elements 
-Username or Email
+start .
+
 ```
 
-Password
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+- Open up a new Visual Studio Code.
 
-Say what the step will be
+- Drag this project's folder into a new visual studio code.
 
-```
-Give the example
-```
+- Create a branch titled with your name.
 
-And repeat
+- Save your project.
 
-```
-until finished
-```
+## Files to create
+1.) login.html
 
-End with an example of getting some data out of the system or using it for a little demo
+2.) news.html
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+3.) style.css
 
 ## Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
 
 ## Contributing
 
