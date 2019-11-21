@@ -16,12 +16,10 @@ Mobile Responsive Layout (NO BOOTSTRAP)
 
 ```
 ```
-login.html
-
-```
+##login.html
 Utitlize form elements 
-
 Username or Email
+```
 
 Password
 ### Installing
