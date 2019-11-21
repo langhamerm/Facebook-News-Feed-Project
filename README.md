@@ -38,21 +38,30 @@ start .
 
 3.) style.css
 
-## Built With
+## Requirements
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* Mobile Responsive (NO BOOSTRAP)
+* Start making your page at 320px
+* Utilize form elements
+* Login button redirects to news.html
+* Embed at least one video from Youtube
+* Must contain multiple pictures
+* Must at least one gif
+* News feed sections should be structured as appeared on Facebook
+* Use header elements
+* Use paragraph elements
+* Use article tags
+* Style hover effects
 
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Once finished push your work to your respective branch.
 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Mark Langhamer & Persevere Code Camp
 
 ## Versioning
 
@@ -60,16 +69,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Mark Langhamer** - *Initial work* - [langhamerm](https://github.com/langhamerm)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
