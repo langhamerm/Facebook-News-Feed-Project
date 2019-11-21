@@ -15,11 +15,32 @@ Open Git Bash and type:
 git clone https://github.com/langhamerm/Facebook-News-Feed-Project.git
 
 ```
-then type: 
+```
+cd Facebook-News-Feed-Project
+
+```
+```
+touch news.html
+
+```
+```
+touch login.html
+
+```
+```
+touch style.css
+
+```
+```
+mkdir images
+
+```
 ```
 start .
 
 ```
+
+
 
 ### Installing
 
@@ -31,12 +52,6 @@ start .
 
 - Save your project.
 
-## Files to create
-1.) login.html
-
-2.) news.html
-
-3.) style.css
 
 ## Requirements
 
